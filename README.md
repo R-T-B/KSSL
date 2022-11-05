@@ -1,4 +1,4 @@
-# KSSL
+# KSSL (KSP Simple Steam Launcher)
 A wrapper launcher for Kerbal Space Program steam installs to bypass Take Twos KSP2 oriented launcher.  Fully passes steam command lines and properly sets up the working path, source code is here for all to view.  Releases are here:
 
 https://github.com/R-T-B/KSSL/releases
