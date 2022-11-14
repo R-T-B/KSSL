@@ -1,0 +1,8 @@
+C:\Users\Memphis\Documents\Visual Studio 2022\Projects\KSSL\bin\Release\LauncherPatcher.exe.config
+C:\Users\Memphis\Documents\Visual Studio 2022\Projects\KSSL\bin\Release\LauncherPatcher.exe
+C:\Users\Memphis\Documents\Visual Studio 2022\Projects\KSSL\obj\Release\LauncherPatcher.csproj.AssemblyReference.cache
+C:\Users\Memphis\Documents\Visual Studio 2022\Projects\KSSL\obj\Release\LauncherPatcher.csproj.SuggestedBindingRedirects.cache
+C:\Users\Memphis\Documents\Visual Studio 2022\Projects\KSSL\obj\Release\KSSL.Properties.Resources.resources
+C:\Users\Memphis\Documents\Visual Studio 2022\Projects\KSSL\obj\Release\LauncherPatcher.csproj.GenerateResource.cache
+C:\Users\Memphis\Documents\Visual Studio 2022\Projects\KSSL\obj\Release\LauncherPatcher.csproj.CoreCompileInputs.cache
+C:\Users\Memphis\Documents\Visual Studio 2022\Projects\KSSL\obj\Release\LauncherPatcher.exe
