@@ -9,7 +9,7 @@ namespace KSSL
     {
         private static void Main(string[] args)
         {
-            string fileName = "../KSP_x64.exe";
+            string fileName = "../KSP2_x64.exe";
             //Uncomment if desired
             //Environment.SetEnvironmentVariable("MONO_THREADS_PER_CPU", "1");
             string text = "";
